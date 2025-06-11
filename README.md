@@ -28,12 +28,29 @@
 
 ## 💼 Tech Stack
 
+**Languages & Logic**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![VBA](https://img.shields.io/badge/-VBA-1D6F42?style=for-the-badge&logo=excel&logoColor=white)
+![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+**AI & Machine Learning**
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-000000?style=for-the-badge)
-![Shiny](https://img.shields.io/badge/-Shiny-FFFFFF?style=for-the-badge&logo=rstudio&logoColor=blue)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+**Data Visualization & BI**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+**Tools & Platforms**
+![Alteryx](https://img.shields.io/badge/-Alteryx-0076BD?style=for-the-badge&logo=alteryx&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
 
 ---
 
@@ -57,7 +74,7 @@
 
 ## ✨ Fun With Code
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="AI Thinking"/>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="40%" alt="AI Thinking"/>
 
 ---
 
