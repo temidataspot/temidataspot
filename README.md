@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner -->
 <img src="https://github.com/temidataspot/temidataspot/blob/main/banner.gif" alt="Welcome Banner" width="100%"/>
 
