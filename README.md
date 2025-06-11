@@ -63,7 +63,7 @@
 ## 🗂️ Projects by Category
 
 ### 🤖 AI & Machine Learning & Sheets Automation
-- [`AutoSyllabus`](https://github.com/temidataspot/autosyllabus) – in the works..<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="10%" alt="AI Thinking"/>
+- [`AutoSyllabus`](https://github.com/temidataspot/autosyllabus) – in the works..<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="2%" alt="AI Thinking"/>
 - [`SmartSell`](https://github.com/temidataspot/project-smartsell/tree/main/Forecasting%20Models) – Store-level weekly sales forecasting using ![XGBoost Regressor](https://img.shields.io/badge/-XGBoost%20Regressor-EC7D3A?style=for-the-badge) & feature engineering
 - [`Outbreak Forecast`](https://github.com/temidataspot/food-borne-outbreak-forecast) – Forecasting outbreaks in Cali using ![Random Forest](https://img.shields.io/badge/-Random%20Forest-006400?style=for-the-badge) and ![Caret](https://img.shields.io/badge/-Caret-00BFC4?style=for-the-badge&logo=r&logoColor=white)
 - [`Summarizer AI`](https://github.com/temidataspot/summarizer-ai) – Fun model for text Summary
