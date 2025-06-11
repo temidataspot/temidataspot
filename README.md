@@ -25,6 +25,8 @@
 ![VBA](https://img.shields.io/badge/-VBA-1D6F42?style=for-the-badge&logo=excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 
 **AI & Machine Learning**
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -39,6 +41,9 @@
 ![Clustering](https://img.shields.io/badge/-Clustering-9B59B6?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/-NLP-5D3FD3?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/-LangChain-3C3C3C?style=for-the-badge)
+![XGBoost Regressor](https://img.shields.io/badge/-XGBoost%20Regressor-EC7D3A?style=for-the-badge)
+![Caret](https://img.shields.io/badge/-Caret-00BFC4?style=for-the-badge&logo=r&logoColor=white)
+
 
 **Data Visualization & BI**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -46,6 +51,7 @@
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/-ggplot2-302E63?style=for-the-badge)
 ![Quarto](https://img.shields.io/badge/-Quarto-0066B8?style=for-the-badge)
+
 
 **Tools & Platforms**
 ![Alteryx](https://img.shields.io/badge/-Alteryx-0076BD?style=for-the-badge&logo=alteryx&logoColor=white)
@@ -56,26 +62,35 @@
 ---
 ## 🗂️ Projects by Category
 
-### 🤖 AI & Machine Learning
-- [`AutoSyllabus`](https://github.com/temidataspot/autosyllabus) – LLM-powered personalized syllabus generator from job descriptions
-- [`SmartSell`](https://github.com/temidataspot/smartsell) – Store-level weekly sales forecasting using LightGBM & feature engineering
-- [`RaceWinProb`](https://github.com/temidataspot/racewinprob) – Horse racing win prediction using LightGBM & probabilistic calibration
-
-### 🏥 Products & Retail
-- [`Ethical Dilemma Simulator`](https://github.com/temidataspot/ethicsim) – Training healthcare professionals through AI-powered ethical scenarios
-- [`Digital Twin UK`](https://github.com/temidataspot/datatwinuk) – Simulating community health & tech access in UK cities
+### 🤖 AI & Machine Learning & Sheets Automation
+- [`AutoSyllabus`](https://github.com/temidataspot/autosyllabus) – in the works..<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="10%" alt="AI Thinking"/>
+- [`SmartSell`](https://github.com/temidataspot/project-smartsell/tree/main/Forecasting%20Models) – Store-level weekly sales forecasting using ![XGBoost Regressor](https://img.shields.io/badge/-XGBoost%20Regressor-EC7D3A?style=for-the-badge) & feature engineering
+- [`Outbreak Forecast`](https://github.com/temidataspot/food-borne-outbreak-forecast) – Forecasting outbreaks in Cali using ![Random Forest](https://img.shields.io/badge/-Random%20Forest-006400?style=for-the-badge) and ![Caret](https://img.shields.io/badge/-Caret-00BFC4?style=for-the-badge&logo=r&logoColor=white)
+- [`Summarizer AI`](https://github.com/temidataspot/summarizer-ai) – Fun model for text Summary
+- [`Excel Automation`](https://github.com/temidataspot/Building_an_Model_in_MS_Excel_using_VBA) – Building automation model with VBA in Excel
+- [`Coursework Scripting`](https://github.com/temidataspot/Coursework_Scripting) – Building automation model with AppScripts in Google Sheets
 
 ### 🧪 Health
-- [`XGBoost vs RandomForest`](https://github.com/temidataspot/xgb-vs-rf) – Model comparison with calibration metrics
-- [`Bias in AI Decisions`](https://github.com/temidataspot/ai-bias-testbed) – Experimenting with fairness metrics in predictive models
+- [`England's Health Index`](https://github.com/temidataspot/england-health-index-etl-sql) – Measuring health indexes across England
+- [`Service Access`](https://github.com/temidataspot/service-access-england) – Obsrerving disparities in service access
+- [`Correlation Analysis`](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance) – Correlation analysis of antibiotic resistance
+- [`Virulent Genes`](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes) – Analysis of virulent genes and AMR
+- [`Air Monitoring`](https://github.com/temidataspot/Real-Time_Air_Quality_Monitoring) – Evaluating air quality
+
+### 🏥 Products & Retail
+- [`Smartsell Analysis`](https://github.com/temidataspot/project-smartsell) – Analysing historical data and economic conditions to predict future revenue
+- [`Marketing Strategy`](https://github.com/temidataspot/Data-Driven_Marketing_Strategy) – Data-driven marketing strategy for contract staffing needs
 
 ### 📊 BI & Visualization
-- [`SmartSell Dashboard`](https://github.com/temidataspot/smartsell-dashboard) – Quarto & Power BI integration for retail insights
-- [`Data Ecology Report`](https://github.com/temidataspot/data-ecology) – Tech hub clustering in the UK using ggplot2 and Tableau visuals
+- [`SmartSell Dashboard`](https://github.com/temidataspot/project-smartsell/tree/main/Dashboard%20%26%20Visuals%20%5BPython%20%26%20Power%20BI%5D) – Quarto & Power BI integration for retail insights
+- [`Smartsell Interactive Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
+- [`Service Access Dashboard I`](https://lookerstudio.google.com/s/vK-RRUSO1oU)
+- [`Service Access Dashboard II`](https://lookerstudio.google.com/s/opyC8X47WYM)
 
 ### 📦 End-to-End Pipelines
-- [`Forecasting Pipeline`](https://github.com/temidataspot/forecasting-pipeline) – From data cleaning to model training, prediction, and Power BI export
-- [`MySQL to Power BI`](https://github.com/temidataspot/mysql-powerbi) – Automating SQL → Python → Power BI dashboard for production insights
+- [`Python -> SQL`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%3A%20Python%20-%3E%20MySQL) – Automating .py - .sql
+- [`SQL to Power BI`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%20II%3A%20SQL%20-%3E%20Power%20BI) – Pipeline from .sql to bi
+- [`Pipeline Automation`](https://github.com/temidataspot/project-smartsell/tree/main/Pipeline%20Automation) – Automating SQL → Python → Power BI dashboard for production insights
 
 ---
 
@@ -87,7 +102,7 @@
 - 👯 I’m looking to collaborate on Niche-based Automations
 - 🤔 I’m looking for help with AWiDS
 - 💬 Ask me about Statistics and how to make the perfect coffee
-- 📫 How to reach me: Email, LinkedIn
+- 📫 How to reach me: [Email](mailto:globaltemi98@gmail.com)
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: I consistently think of new ways to make my life easier, so I keep building apps to help me do so. Might end up with a battalion atp.
 
