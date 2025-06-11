@@ -3,7 +3,7 @@
 
 <h1 align="center">👋🏽 Hey, I'm Temi Priscilla — Data Scientist & AI Architect</h1>
 <p align="center">
-  I turn complex data into simple insights and build machine learning models that solve real-world problems. 
+  I transform complex data into actionable insights and develop machine learning models that address real-world challenges. 
 </p>
 
 ---
@@ -16,19 +16,9 @@
 
 ---
 
-## 🚀 My Top Projects
-
-| 📁 Project | 💬 Description | 🔧 Stack |
-|-----------|----------------|----------|
-| [🧠 AutoSyllabus](https://github.com/yourusername/autosyllabus) | AI that generates personalized learning paths from job roles | Python, LLMs, NLP |
-| [📊 SmartSell](https://github.com/yourusername/smartsell) | Forecasting weekly sales for 45 stores using ML models | R, ggplot2, LightGBM |
-| [🩺 Ethical Dilemma Simulator](https://github.com/yourusername/ethicsim) | An AI app to train healthcare professionals on difficult choices | R Shiny, NLP, logic trees |
-
----
-
 ## 💼 Tech Stack
 
-**Languages & Logic**
+**Languages, Logic & Scripting**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,12 +29,23 @@
 **AI & Machine Learning**
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC7D3A?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-000000?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/-Random%20Forest-006400?style=for-the-badge)
+![KNN](https://img.shields.io/badge/-KNN-00599C?style=for-the-badge)
+![Naive Bayes](https://img.shields.io/badge/-Naive%20Bayes-2E8B57?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/-Decision%20Trees-8B0000?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/-Clustering-9B59B6?style=for-the-badge)
+![NLP](https://img.shields.io/badge/-NLP-5D3FD3?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-3C3C3C?style=for-the-badge)
 
-**Data Visualization & BI**
+**Data Visualization & BI**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![ggplot2](https://img.shields.io/badge/-ggplot2-302E63?style=for-the-badge)
+![Quarto](https://img.shields.io/badge/-Quarto-0066B8?style=for-the-badge)
 
 **Tools & Platforms**
 ![Alteryx](https://img.shields.io/badge/-Alteryx-0076BD?style=for-the-badge&logo=alteryx&logoColor=white)
@@ -53,7 +54,34 @@
 
 
 ---
+## 🗂️ Projects by Category
 
+### 🤖 AI & Machine Learning
+- [`AutoSyllabus`](https://github.com/temidataspot/autosyllabus) – LLM-powered personalized syllabus generator from job descriptions
+- [`SmartSell`](https://github.com/temidataspot/smartsell) – Store-level weekly sales forecasting using LightGBM & feature engineering
+- [`RaceWinProb`](https://github.com/temidataspot/racewinprob) – Horse racing win prediction using LightGBM & probabilistic calibration
+
+### 🏥 Products & Retail
+- [`Ethical Dilemma Simulator`](https://github.com/temidataspot/ethicsim) – Training healthcare professionals through AI-powered ethical scenarios
+- [`Digital Twin UK`](https://github.com/temidataspot/datatwinuk) – Simulating community health & tech access in UK cities
+
+### 🧪 Health
+- [`XGBoost vs RandomForest`](https://github.com/temidataspot/xgb-vs-rf) – Model comparison with calibration metrics
+- [`Bias in AI Decisions`](https://github.com/temidataspot/ai-bias-testbed) – Experimenting with fairness metrics in predictive models
+
+### 📊 BI & Visualization
+- [`SmartSell Dashboard`](https://github.com/temidataspot/smartsell-dashboard) – Quarto & Power BI integration for retail insights
+- [`Data Ecology Report`](https://github.com/temidataspot/data-ecology) – Tech hub clustering in the UK using ggplot2 and Tableau visuals
+
+### 📦 End-to-End Pipelines
+- [`Forecasting Pipeline`](https://github.com/temidataspot/forecasting-pipeline) – From data cleaning to model training, prediction, and Power BI export
+- [`MySQL to Power BI`](https://github.com/temidataspot/mysql-powerbi) – Automating SQL → Python → Power BI dashboard for production insights
+
+---
+
+📌 *Looking for something specific? Search my repos by keyword, or drop a message!*
+
+---
 - 🔭 I’m currently working on African Women in Data Science
 - 🌱 I’m currently learning A LOT!
 - 👯 I’m looking to collaborate on Niche-based Automations
