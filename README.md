@@ -8,11 +8,11 @@
 
 ---
 
-## 🧠 About Me
-- 🔍 I analyze data, uncover insights, and build AI/ML models that make a difference.
-- 🤖 I create intelligent apps for forecasting, automation, and ethical decision-making.
-- 📈 I believe in storytelling through data — visual, impactful, and human-centered.
-- 🌍 Passionate about using data for good in health, business, education, and community.
+## About Me
+- I analyze data, uncover insights, and build AI/ML models that make a difference.
+- I create intelligent apps for forecasting, automation, and ethical decision-making.
+- I believe in storytelling through data — visual, impactful, and human-centered.
+- Passionate about using data for good in health, business, education, and community.
 
 ---
 
@@ -85,21 +85,21 @@
 ### Gaming
 - [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) - Prediciting winning probabilities to aid betting in a horse race
 
-### 📊 BI & Visualization
+### BI & Visualization
 - [`SmartSell Dashboard`](https://github.com/temidataspot/project-smartsell/tree/main/Dashboard%20%26%20Visuals%20%5BPython%20%26%20Power%20BI%5D) – Quarto & Power BI integration for retail insights
 - [`Smartsell Interactive Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
 - [`Service Access Dashboard I`](https://lookerstudio.google.com/s/vK-RRUSO1oU)
 - [`Service Access Dashboard II`](https://lookerstudio.google.com/s/opyC8X47WYM)
 - [`Staffing Report`](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
 
-### 📦 End-to-End Pipelines
+### End-to-End Pipelines
 - [`Python -> SQL`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%3A%20Python%20-%3E%20MySQL) – Automating .py - .sql
 - [`SQL to Power BI`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%20II%3A%20SQL%20-%3E%20Power%20BI) – Pipeline from .sql to bi
 - [`Pipeline Automation`](https://github.com/temidataspot/project-smartsell/tree/main/Pipeline%20Automation) – Automating SQL → Python → Power BI dashboard for production insights
 
 ---
 
-📌 *Looking for something specific? Search my repos by keyword, or drop a message!*
+*Looking for something specific? Search my repos by keyword, or drop a message!*
 
 ---
 - 🔭 I’m currently working on African Women in Data Science
