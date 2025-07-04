@@ -60,26 +60,30 @@
 
 
 ---
-## 🗂️ Projects by Category
+## Projects by Category
 
-### 🤖 AI & Machine Learning & Sheets Automation
+### AI & Machine Learning & Sheets Automation
 - [`AutoSyllabus`](https://github.com/temidataspot/autosyllabus) – in the works..<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="2%" alt="AI Thinking"/>
 - [`SmartSell`](https://github.com/temidataspot/project-smartsell/tree/main/Forecasting%20Models) – Store-level weekly sales forecasting using ![XGBoost Regressor](https://img.shields.io/badge/-XGBoost%20Regressor-EC7D3A?style=for-the-badge) & feature engineering
 - [`Outbreak Forecast`](https://github.com/temidataspot/food-borne-outbreak-forecast) – Forecasting outbreaks in Cali using ![Random Forest](https://img.shields.io/badge/-Random%20Forest-006400?style=for-the-badge) and ![Caret](https://img.shields.io/badge/-Caret-00BFC4?style=for-the-badge&logo=r&logoColor=white)
+- [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) - Prediciting winning probabilities to aid betting in a horse race
 - [`Summarizer AI`](https://github.com/temidataspot/summarizer-ai) – Fun model for text Summary
 - [`Excel Automation`](https://github.com/temidataspot/Building_an_Model_in_MS_Excel_using_VBA) – Building automation model with VBA in Excel
 - [`Coursework Scripting`](https://github.com/temidataspot/Coursework_Scripting) – Building automation model with AppScripts in Google Sheets
 
-### 🧪 Health
+### Health
 - [`England's Health Index`](https://github.com/temidataspot/england-health-index-etl-sql) – Measuring health indexes across England
 - [`Service Access`](https://github.com/temidataspot/service-access-england) – Obsrerving disparities in service access
 - [`Correlation Analysis`](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance) – Correlation analysis of antibiotic resistance
 - [`Virulent Genes`](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes) – Analysis of virulent genes and AMR
 - [`Air Monitoring`](https://github.com/temidataspot/Real-Time_Air_Quality_Monitoring) – Evaluating air quality
 
-### 🏥 Products & Retail
+### Products & Retail
 - [`Smartsell Analysis`](https://github.com/temidataspot/project-smartsell) – Analysing historical data and economic conditions to predict future revenue
 - [`Marketing Strategy`](https://github.com/temidataspot/Data-Driven_Marketing_Strategy) – Data-driven marketing strategy for contract staffing needs
+
+### Gaming
+- [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) - Prediciting winning probabilities to aid betting in a horse race
 
 ### 📊 BI & Visualization
 - [`SmartSell Dashboard`](https://github.com/temidataspot/project-smartsell/tree/main/Dashboard%20%26%20Visuals%20%5BPython%20%26%20Power%20BI%5D) – Quarto & Power BI integration for retail insights
