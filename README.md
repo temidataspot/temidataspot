@@ -3,7 +3,7 @@
 
 <h1 align="center">👋🏽 Hey, I'm Temi Priscilla — Data Scientist & AI Architect</h1>
 <p align="center">
-  I transform complex data into actionable insights and develop machine learning models that address real-world challenges. 
+  I transform complex data into actionable insights and develop machine-learning models that address real-world challenges. 
 </p>
 
 ---
@@ -86,6 +86,7 @@
 - [`Smartsell Interactive Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
 - [`Service Access Dashboard I`](https://lookerstudio.google.com/s/vK-RRUSO1oU)
 - [`Service Access Dashboard II`](https://lookerstudio.google.com/s/opyC8X47WYM)
+- [`Staffing Report`](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
 
 ### 📦 End-to-End Pipelines
 - [`Python -> SQL`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%3A%20Python%20-%3E%20MySQL) – Automating .py - .sql
