@@ -85,12 +85,17 @@
 ### Gaming
 - [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) - Prediciting winning probabilities to aid betting in a horse race
 
+### Finance
+- [`Walmart Stock Historical Analysis`](https://github.com/temidataspot/game-prediction) 
+- [`Walmart Stock EDA & Predictive Modelling`](https://github.com/temidataspot/game-prediction) 
+
 ### BI & Visualization
 - [`SmartSell Dashboard`](https://github.com/temidataspot/project-smartsell/tree/main/Dashboard%20%26%20Visuals%20%5BPython%20%26%20Power%20BI%5D) – Quarto & Power BI integration for retail insights
 - [`Smartsell Interactive Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
 - [`Service Access Dashboard I`](https://lookerstudio.google.com/s/vK-RRUSO1oU)
 - [`Service Access Dashboard II`](https://lookerstudio.google.com/s/opyC8X47WYM)
 - [`Staffing Report`](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
+- [`Walmart Stock`](https://app.powerbi.com/view?r=eyJrIjoiMmNlNjdkZjQtYTJkNC00MWVmLWEwNjktZGFlM2I4NWQ5MTk2IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
 
 ### End-to-End Pipelines
 - [`Python -> SQL`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%3A%20Python%20-%3E%20MySQL) – Automating .py - .sql
