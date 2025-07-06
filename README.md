@@ -86,8 +86,8 @@
 - [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) - Prediciting winning probabilities to aid betting in a horse race
 
 ### Finance
-- [`Walmart Stock Historical Analysis`](https://github.com/temidataspot/game-prediction) 
-- [`Walmart Stock EDA & Predictive Modelling`](https://github.com/temidataspot/game-prediction) 
+- [`Walmart Stock Historical Analysis`]([https://github.com/temidataspot/game-prediction](https://github.com/temidataspot/walmart)) 
+- [`Walmart Stock EDA & Predictive Modelling`]([https://github.com/temidataspot/game-prediction](https://github.com/temidataspot/walmart)) 
 
 ### BI & Visualization
 - [`SmartSell Dashboard`](https://github.com/temidataspot/project-smartsell/tree/main/Dashboard%20%26%20Visuals%20%5BPython%20%26%20Power%20BI%5D) – Quarto & Power BI integration for retail insights
