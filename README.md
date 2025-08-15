@@ -37,43 +37,17 @@
 
 ### AI & Machine Learning & Sheets Automation
 - [`AutoSyllabus`](https://github.com/temidataspot/autosyllabus) – in the works..<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="2%" alt="AI Thinking"/>
-- [`SmartSell`](https://github.com/temidataspot/project-smartsell/tree/main/Forecasting%20Models) – Store-level weekly sales forecasting using ![XGBoost Regressor](https://img.shields.io/badge/-XGBoost%20Regressor-EC7D3A?style=for-the-badge) & feature engineering
-- [`Outbreak Forecast`](https://github.com/temidataspot/food-borne-outbreak-forecast) – Forecasting outbreaks in Cali using ![Random Forest](https://img.shields.io/badge/-Random%20Forest-006400?style=for-the-badge) and ![Caret](https://img.shields.io/badge/-Caret-00BFC4?style=for-the-badge&logo=r&logoColor=white)
-- [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) - Prediciting winning probabilities to aid betting in a horse race
-- [`Summarizer AI`](https://github.com/temidataspot/summarizer-ai) – Fun model for text Summary
-- [`Excel Automation`](https://github.com/temidataspot/Building_an_Model_in_MS_Excel_using_VBA) – Building automation model with VBA in Excel
-- [`Coursework Scripting`](https://github.com/temidataspot/Coursework_Scripting) – Building automation model with AppScripts in Google Sheets
+### Projects
 
-### Health
-- [`England's Health Index`](https://github.com/temidataspot/england-health-index-etl-sql) – Measuring health indexes across England
-- [`Service Access`](https://github.com/temidataspot/service-access-england) – Obsrerving disparities in service access
-- [`Correlation Analysis`](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance) – Correlation analysis of antibiotic resistance
-- [`Virulent Genes`](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes) – Analysis of virulent genes and AMR
-- [`Air Monitoring`](https://github.com/temidataspot/Real-Time_Air_Quality_Monitoring) – Evaluating air quality
-
-### Products & Retail
-- [`Smartsell Analysis`](https://github.com/temidataspot/project-smartsell) – Analysing historical data and economic conditions to predict future revenue
-- [`Marketing Strategy`](https://github.com/temidataspot/Data-Driven_Marketing_Strategy) – Data-driven marketing strategy for contract staffing needs
-
-### Gaming
-- [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) - Prediciting winning probabilities to aid betting in a horse race
-
-### Finance
-- [`Walmart Stock Historical Analysis`]([https://github.com/temidataspot/game-prediction](https://github.com/temidataspot/walmart)) 
-- [`Walmart Stock EDA & Predictive Modelling`]([https://github.com/temidataspot/game-prediction](https://github.com/temidataspot/walmart)) 
-
-### BI & Visualization
-- [`SmartSell Dashboard`](https://github.com/temidataspot/project-smartsell/tree/main/Dashboard%20%26%20Visuals%20%5BPython%20%26%20Power%20BI%5D) – Quarto & Power BI integration for retail insights
-- [`Smartsell Interactive Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
-- [`Service Access Dashboard I`](https://lookerstudio.google.com/s/vK-RRUSO1oU)
-- [`Service Access Dashboard II`](https://lookerstudio.google.com/s/opyC8X47WYM)
-- [`Staffing Report`](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
-- [`Walmart Stock`](https://app.powerbi.com/view?r=eyJrIjoiMmNlNjdkZjQtYTJkNC00MWVmLWEwNjktZGFlM2I4NWQ5MTk2IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)
-
-### End-to-End Pipelines
-- [`Python -> SQL`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%3A%20Python%20-%3E%20MySQL) – Automating .py - .sql
-- [`SQL to Power BI`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%20II%3A%20SQL%20-%3E%20Power%20BI) – Pipeline from .sql to bi
-- [`Pipeline Automation`](https://github.com/temidataspot/project-smartsell/tree/main/Pipeline%20Automation) – Automating SQL → Python → Power BI dashboard for production insights
+| **AI & Machine Learning & Sheets Automation** | **Health** | **Products & Retail** | **Gaming** | **Finance** | **BI & Visualization** | **End-to-End Pipelines** |
+|-----------------------------------------------|------------|---------------------|------------|-------------|----------------------|--------------------------|
+| [`AutoSyllabus`](https://github.com/temidataspot/autosyllabus) ..<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="2%" alt="AI Thinking"/> | [`England's Health Index`](https://github.com/temidataspot/england-health-index-etl-sql) | [`Smartsell Analysis`](https://github.com/temidataspot/project-smartsell) | [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) | [`Walmart Stock Historical Analysis`](https://github.com/temidataspot/walmart) | [`SmartSell Dashboard`](https://github.com/temidataspot/project-smartsell/tree/main/Dashboard%20%26%20Visuals%20%5BPython%20%26%20Power%20BI%5D) | [`Python -> SQL`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%3A%20Python%20-%3E%20MySQL) |
+| [`SmartSell`](https://github.com/temidataspot/project-smartsell/tree/main/Forecasting%20Models) | [`Service Access`](https://github.com/temidataspot/service-access-england) | [`Marketing Strategy`](https://github.com/temidataspot/Data-Driven_Marketing_Strategy) |  | [`Walmart Stock EDA & Predictive Modelling`](https://github.com/temidataspot/walmart) | [`Smartsell Interactive Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9) | [`SQL to Power BI`](https://github.com/temidataspot/project-smartsell/tree/main/ETL%20Pipeline%20II%3A%20SQL%20-%3E%20Power%20BI) |
+| [`Outbreak Forecast`](https://github.com/temidataspot/food-borne-outbreak-forecast) | [`Correlation Analysis`](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance) |  |  |  | [`Service Access Dashboard I`](https://lookerstudio.google.com/s/vK-RRUSO1oU) | [`Pipeline Automation`](https://github.com/temidataspot/project-smartsell/tree/main/Pipeline%20Automation) |
+| [`Horse Race Win Predictions`](https://github.com/temidataspot/game-prediction) | [`Virulent Genes`](https://github.com/temidataspot/Virulent-Antibiotic-resistant-Genes) |  |  |  | [`Service Access Dashboard II`](https://lookerstudio.google.com/s/opyC8X47WYM) |  |
+| [`Summarizer AI`](https://github.com/temidataspot/summarizer-ai) | [`Air Monitoring`](https://github.com/temidataspot/Real-Time_Air_Quality_Monitoring) |  |  |  | [`Staffing Report`](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9) |  |
+| [`Excel Automation`](https://github.com/temidataspot/Building_an_Model_in_MS_Excel_using_VBA) |  |  |  |  | [`Walmart Stock`](https://app.powerbi.com/view?r=eyJrIjoiMmNlNjdkZjQtYTJkNC00MWVmLWEwNjktZGFlM2I4NWQ5MTk2IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9) |  |
+| [`Coursework Scripting`](https://github.com/temidataspot/Coursework_Scripting) |  |  |  |  |  |  |
 
 ---
 
