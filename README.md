@@ -18,8 +18,6 @@
 
 ## 💼 Tech Stack
 
-## 💼 Tech Stack
-
 | **Languages & Scripting** | **AI & Machine Learning** | **Data Visualisation & BI** | **Automation & Tools** |
 |---------------------------|---------------------------|-----------------------------|------------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="20"/> Scikit-Learn | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="20"/> Power BI | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_Excel_%282019–present%29.svg" width="20"/> Excel (Advanced) |
