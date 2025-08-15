@@ -68,20 +68,14 @@
 
 ---
 
-## ✨ Fun With Code
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="40%" alt="AI Thinking"/>
-
----
-
-## 🌱 Currently Exploring
-- 💬 Fine-tuning large language models for niche use cases
-- 📅 Building AI-powered scheduling and forecasting tools
-- 📚 Democratizing knowledge with personalised learning AI
+## Currently Exploring
+- Reinforcement learning & Advanced deep learning models
+- Experimenting with Langchain and Gen AI tools
+- Democratizing knowledge with personalised learning AI
 
 ---
 
-## 🤝 Connect with Me 
+## Connect with Me 
 <p align="center">
   <a href="https://linkedin.com/in/temiloluwa-priscilla-jokotola" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -96,5 +90,5 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7A800&width=435&lines=Let's+build+responsible+AI.;Let+data+tell+better+stories.;Make+tech+more+human.💡" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Have a nice day! 👋" width="200"/>
 </p>
