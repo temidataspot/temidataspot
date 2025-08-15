@@ -1,7 +1,9 @@
 <!-- Banner -->
 <img src="https://github.com/temidataspot/temidataspot/blob/main/banner.gif" alt="Welcome Banner" width="100%"/>
 
-<h1 align="center">👋🏽 Hey, I'm Temi Priscilla — Data Scientist & AI Architect</h1>
+<h2 align="center">Temi Priscilla</h2>
+<h3 align="center">Data Scientist | AI Architect</h3>
+
 <p align="center">
   I transform complex data into actionable insights and develop machine-learning models that address real-world challenges. 
 </p>
