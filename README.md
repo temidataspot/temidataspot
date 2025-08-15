@@ -18,45 +18,21 @@
 
 ## 💼 Tech Stack
 
-**Languages, Logic & Scripting**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-1D6F42?style=for-the-badge&logo=excel&logoColor=white)
-![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+## 💼 Tech Stack
 
-
-**AI & Machine Learning**
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC7D3A?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/-LightGBM-000000?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/-Random%20Forest-006400?style=for-the-badge)
-![KNN](https://img.shields.io/badge/-KNN-00599C?style=for-the-badge)
-![Naive Bayes](https://img.shields.io/badge/-Naive%20Bayes-2E8B57?style=for-the-badge)
-![Decision Trees](https://img.shields.io/badge/-Decision%20Trees-8B0000?style=for-the-badge)
-![Clustering](https://img.shields.io/badge/-Clustering-9B59B6?style=for-the-badge)
-![NLP](https://img.shields.io/badge/-NLP-5D3FD3?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-3C3C3C?style=for-the-badge)
-![XGBoost Regressor](https://img.shields.io/badge/-XGBoost%20Regressor-EC7D3A?style=for-the-badge)
-![Caret](https://img.shields.io/badge/-Caret-00BFC4?style=for-the-badge&logo=r&logoColor=white)
-
-
-**Data Visualization & BI**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![ggplot2](https://img.shields.io/badge/-ggplot2-302E63?style=for-the-badge)
-![Quarto](https://img.shields.io/badge/-Quarto-0066B8?style=for-the-badge)
-
-
-**Tools & Platforms**
-![Alteryx](https://img.shields.io/badge/-Alteryx-0076BD?style=for-the-badge&logo=alteryx&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+| **Languages & Scripting** | **AI & Machine Learning** | **Data Visualisation & BI** | **Automation & Tools** |
+|---------------------------|---------------------------|-----------------------------|------------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="20"/> Scikit-Learn | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="20"/> Power BI | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_Excel_%282019–present%29.svg" width="20"/> Excel (Advanced) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" width="20"/> XGBoost | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="20"/> Tableau | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Sheets_2020_Logo.svg" width="20"/> Google Sheets |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/LightGBM_logo.svg" width="20"/> LightGBM | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Looker.svg" width="20"/> Looker | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Drive_Logo.svg" width="20"/> Google Apps Script |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Basic_Logo.png" width="20"/> VBA | Random Forest | ggplot2 | Quarto |
+|                           | Decision Trees |         |                        |
+|                           | Naive Bayes |         |                        |
+|                           | KNN |         |                        |
+|                           | Clustering |         |                        |
+|                           | NLP |         |                        |
+|                           | LangChain |         |                        |
+|                           | Caret (R) |         |                        |
 
 
 ---
