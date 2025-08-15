@@ -18,31 +18,19 @@
 
 ## 💼 Tech Stack
 
-| **Languages & Scripting** | **AI & Machine Learning** | **Data Visualisation & BI** | **Automation & Tools** |
-|---------------------------|---------------------------|-----------------------------|------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="20"/> Scikit-Learn | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="20"/> Power BI | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_Excel_%282019–present%29.svg" width="20"/> Excel (Advanced) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" width="20"/> XGBoost | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="20"/> Tableau | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Sheets_2020_Logo.svg" width="20"/> Google Sheets |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/LightGBM_logo.svg" width="20"/> LightGBM | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Looker.svg" width="20"/> Looker | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Drive_Logo.svg" width="20"/> Google Apps Script |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Basic_Logo.png" width="20"/> VBA | Random Forest | ggplot2 | Quarto |
-|                           | Decision Trees |         |                        |
-|                           | Naive Bayes |         |                        |
-|                           | KNN |         |                        |
-|                           | Clustering |         |                        |
-|                           | NLP |         |                        |
-|                           | LangChain |         |                        |
-|                           | Caret (R) |         |                        |
+| **Languages & Scripting** | **AI & Machine Learning** | **Data Visualisation & BI** | **Data Engineering** | **Cloud Platforms** | **Automation & Tools** |
+|---------------------------|---------------------------|-----------------------------|----------------------|---------------------|------------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Classical Machine Learning | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="20"/> Power BI | dbt | AWS | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_Excel_%282019–present%29.svg" width="20"/> Excel (Advanced) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Deep Learning | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="20"/> Tableau | BigQuery | MS Azure | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Sheets_2020_Logo.svg" width="20"/> Google Sheets |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Looker.svg" width="20"/> Looker |  | GCP | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Drive_Logo.svg" width="20"/> Google Apps Script |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Basic_Logo.png" width="20"/> VBA | General AI Concepts | Alteryx |  |  | Quarto |
+|                           |                           | Seaborn |  |  |  |
+|                           |                           | Matplotlib |  |  |  |
+|                           |                           | ggplot2 |  |  |  |
+
 
 
 ---
-
-## 💼 Tech Stack
-
-| **Languages & Scripting** | **AI & Machine Learning** | **Data Visualisation & BI** | **Automation & Tools** |
-|---------------------------|---------------------------|-----------------------------|------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Classical Machine Learning | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="20"/> Power BI | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_Excel_%282019–present%29.svg" width="20"/> Excel (Advanced) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Deep Learning | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="20"/> Tableau | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Sheets_2020_Logo.svg" width="20"/> Google Sheets |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Looker.svg" width="20"/> Looker | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Drive_Logo.svg" width="20"/> Google Apps Script |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Basic_Logo.png" width="20"/> VBA | General AI Concepts | ggplot2 | Quarto |
 
 ## Projects by Category
 
