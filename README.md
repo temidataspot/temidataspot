@@ -11,10 +11,10 @@
 ---
 
 ## About Me
-- I analyze data, uncover insights, and build AI/ML models that make a difference.
-- I create intelligent apps for forecasting, automation, and ethical decision-making.
-- I believe in storytelling through data — visual, impactful, and human-centered.
-- Passionate about using data for good in health, business, education, and community.
+- I analyse complex datasets, uncover actionable insights, and develop AI/ML models that drive real-world impact.  
+- I design intelligent applications for forecasting, automation, and ethical decision-making.  
+- I am passionate about storytelling through data — creating visual, meaningful, and human-centred insights.  
+- I leverage data to create positive change across health, business, education, and community initiatives.
 
 ---
 
