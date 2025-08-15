@@ -20,14 +20,13 @@
 
 | **Languages & Scripting** | **AI & Machine Learning** | **Data Visualisation & BI** | **Data Engineering** | **Cloud Platforms** | **Automation & Tools** |
 |---------------------------|---------------------------|-----------------------------|----------------------|---------------------|------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Classical Machine Learning | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="20"/> Power BI | dbt | AWS | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_Excel_%282019–present%29.svg" width="20"/> Excel (Advanced) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Deep Learning | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="20"/> Tableau | BigQuery | MS Azure | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Sheets_2020_Logo.svg" width="20"/> Google Sheets |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Looker.svg" width="20"/> Looker |  | GCP | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Drive_Logo.svg" width="20"/> Google Apps Script |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Basic_Logo.png" width="20"/> VBA | General AI Concepts | Alteryx |  |  | Quarto |
-|                           |                           | Seaborn |  |  |  |
-|                           |                           | Matplotlib |  |  |  |
-|                           |                           | ggplot2 |  |  |  |
-
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Classical Machine Learning | Power BI | dbt | AWS | Excel (Advanced) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Deep Learning | Tableau | BigQuery | MS Azure | Google Sheets |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | Looker |  | GCP | Google Apps Script |
+| VBA | General AI Concepts | Alteryx |  |  | Quarto |
+|  |  | Seaborn |  |  |  |
+|  |  | Matplotlib |  |  |  |
+|  |  | ggplot2 |  |  |  |
 
 
 ---
