@@ -20,14 +20,14 @@
 
 ## 💼 Tech Stack
 
-| **Languages & Scripting** | **AI & Machine Learning** | **Data Visualisation & BI** | **Data Engineering** | **Cloud Platforms** | **Automation & Tools** |
+| **Languages, Scripting & Automation** | **AI & Machine Learning** | **Data Visualisation & BI** | **Data Engineering** | **Cloud Platforms** | Spreadsheets |
 |---------------------------|---------------------------|-----------------------------|----------------------|---------------------|------------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Classical Machine Learning | Power BI | dbt | AWS | Excel (Advanced) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Deep Learning | Tableau | BigQuery | MS Azure | Google Sheets |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | Looker |  | GCP | Google Apps Script |
-| VBA | General AI Concepts | Alteryx |  |  | Quarto |
-|  |  | Seaborn |  |  |  |
-|  |  | Matplotlib |  |  |  |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | Looker |  | GCP | |
+| VBA | General AI Concepts | Alteryx |  |  | |
+| Appscript |  | Seaborn & Matplotlib |  |  |  |
+| Quarto |  | Streamlit |  |  |  |
 |  |  | ggplot2 |  |  |  |
 
 
