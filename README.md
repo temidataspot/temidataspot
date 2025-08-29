@@ -27,9 +27,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | Looker, Streamlit |  | GCP | |
 | VBA & Appscript |  | Alteryx, ggplot2 |  |  | |
 | Quarto |  | Seaborn & Matplotlib |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
 
 ---
 
