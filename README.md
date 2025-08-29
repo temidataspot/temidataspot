@@ -26,8 +26,8 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Unsupervised Learning | Tableau | BigQuery | MS Azure | Google Sheets |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | Looker |  | GCP | |
 | VBA & Appscript |  | Alteryx |  |  | |
-| |  | Seaborn & Matplotlib |  |  |  |
-| Quarto |  | Streamlit |  |  |  |
+| Quarto |  | Seaborn & Matplotlib |  |  |  |
+|  |  | Streamlit |  |  |  |
 |  |  | ggplot2 |  |  |  |
 
 
