@@ -2,7 +2,7 @@
 <img src="https://github.com/temidataspot/temidataspot/blob/main/banner.gif" alt="Welcome Banner" width="100%"/>
 
 <h1 align="center">Temi Priscilla</h1>
-<h3 align="center">Data Scientist | AI Architect</h3>
+<h3 align="center">Data Scientist </h3>
 
 <p align="center">
   Turning complex data into actionable insights | Building AI solutions that solve real-world problems
