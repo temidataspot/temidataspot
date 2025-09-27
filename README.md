@@ -34,11 +34,11 @@
 
 | **First Table: Title** | **Description** | **Repository** | **Web App & Dashboards** | **Separator** | **Second Table: Name** | **Description** | **Repo** | **App** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Project A | Short Desc | [Repo](https://github.com/example/repo-a) | [App](#) | <td style="background-color: #333333;"></td> | Project Alpha | Analysis | [Alpha Repo](https://github.com/example/project-alpha) | [App Link](#) |
-| Project B | Short Desc | [Repo](https://github.com/example/repo-b) | [App](#) | <td style="background-color: #333333;"></td> | Beta Feature | Implement | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
-| | | | | <td style="background-color: #333333;"></td> | Gamma System | Real-time | [Gamma Repo](https://github.com/example/project-gamma) | [App Link](#) |
-| | | | | <td style="background-color: #333333;"></td> | Delta Insights | Dashboard | [Delta Repo](https://github.com/example/project-delta) | [App Link](#) |
-| | | | | <td style="background-color: #333333;"></td> | Epsilon Forecast | Time serie | [Epsilon Repo](https://github.com/example/project-epsilon) | [App Link](#) |
+| Project A | Short Desc | [Repo](https://github.com/example/repo-a) | [App](#) | <span style="background-color: #000000; display: block; height: 100%;">&nbsp;</span> | Project Alpha | Analysis | [Alpha Repo](https://github.com/example/project-alpha) | [App Link](#) |
+| Project B | Short Desc | [Repo](https://github.com/example/repo-b) | [App](#) | <span style="background-color: #000000; display: block; height: 100%;">&nbsp;</span> | Beta Feature | Implement | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
+| | | | | <span style="background-color: #000000; display: block; height: 100%;">&nbsp;</span> | Gamma System | Real-time | [Gamma Repo](https://github.com/example/project-gamma) | [App Link](#) |
+| | | | | <span style="background-color: #000000; display: block; height: 100%;">&nbsp;</span> | Delta Insights | Dashboard | [Delta Repo](https://github.com/example/project-delta) | [App Link](#) |
+| | | | | <span style="background-color: #000000; display: block; height: 100%;">&nbsp;</span> | Epsilon Forecast | Time serie | [Epsilon Repo](https://github.com/example/project-epsilon) | [App Link](#) |
 ---
 
 *Looking for something specific? Search my repos by keyword, or drop a message!*
