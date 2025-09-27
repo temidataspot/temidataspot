@@ -30,7 +30,7 @@
 
 ---
 
-## Projects
+## Projects                                                                                              AI Apps & Automations
 
 | **First Table: Title** | **Description** | **Repository** | **Web App & Dashboards** | | **Second Table: Name** | **Description** | **Repo** | **App** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
