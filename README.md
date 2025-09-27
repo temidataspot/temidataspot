@@ -30,13 +30,13 @@
 
 ---
 
-## Projects                                                                                                 
+## Portfolio Projects                                                                                                 
 
 | **Projects** | **Description** | **Repo** | **Web App & Dashboards** | | **AI Apps & Automation** | **Description** | **Repo** | **App** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Food-borne Outbreaks | Predicting... | [FBO](https://github.com/temidataspot/food-illness-prediction) | [![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/) | | Project Alpha | Analysis of user engagement metrics | [Alpha Repo](https://github.com/example/project-alpha) | [App Link](#) |
-| Smart Sell | End-to-End... | [SS](https://github.com/temidataspot/project-smartsell) | [![Dashboard](https://img.shields.io/badge/Dashboard-PowerBI-blue)](https://app.powerbi.com/...) | | Beta Feature | Implementation... | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
-| (Continue your first table rows...) | ... | ... | ... | | (Continue your second table rows...) | ... | ... | ... |
+| Food-borne Outbreaks | ARIMA & ETS for Prediction | [FBO](https://github.com/temidataspot/food-illness-prediction) | [![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/) | | JScribe AI | Expander, Summariser & OCR | [JScribe](https://github.com/temidataspot/JokoScribe-AI) | [![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/jokoscribe//) |
+| Smart Sell | End-to-End pipeline sales forecast | [SS](https://github.com/temidataspot/project-smartsell) | [![Dashboard](https://img.shields.io/badge/Dashboard-PowerBI-blue)](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9) | | Beta Feature | Implementation... | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
+| Patient Readmission | Predicting admission risks | [PAR](https://github.com/temidataspot/patient-readmission-risk) | [![WebApp](https://img.shields.io/badge/Web%20App-Streamlit-blue)](https://patient-readmission-risks.streamlit.app/) | | (Continue your second table rows...) | ... | ... | ... |
 ---
 
 *Looking for something specific? Search my repos by keyword, or drop a message!*
