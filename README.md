@@ -51,11 +51,11 @@
 
 | Name                | Description                                      | Repo                                                                 | App                    |
 |---------------------|--------------------------------------------------|----------------------------------------------------------------------|------------------------|
-| Project Alpha       | Analysis of user engagement metrics              | [Alpha Repo](https://github.com/example/project-alpha)              | [App Link](#)          |
-| Beta Feature        | Implementation of new recommendation engine      | [Beta Repo](https://github.com/example/project-beta)                | [App Link](#)          |
-| Gamma System        | Real-time data processing pipeline               | [Gamma Repo](https://github.com/example/project-gamma)              | [App Link](#)          |
-| Delta Insights      | Dashboard for customer feedback analysis         | [Delta Repo](https://github.com/example/project-delta)              | [App Link](#)          |
-| Epsilon Forecast    | Time series forecasting for resource usage       | [Epsilon Repo](https://github.com/example/project-epsilon)          | [App Link](#)          |
+| Project Alpha       | Analysis             | [Alpha Repo](https://github.com/example/project-alpha)              | [App Link](#)          |
+| Beta Feature        | Implement    | [Beta Repo](https://github.com/example/project-beta)                | [App Link](#)          |
+| Gamma System        | Real-time              | [Gamma Repo](https://github.com/example/project-gamma)              | [App Link](#)          |
+| Delta Insights      | Dashboard         | [Delta Repo](https://github.com/example/project-delta)              | [App Link](#)          |
+| Epsilon Forecast    | Time serie      | [Epsilon Repo](https://github.com/example/project-epsilon)          | [App Link](#)          |
 
 </div>
 
