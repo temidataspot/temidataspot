@@ -30,9 +30,9 @@
 
 ---
 
-## <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>Projects</div>
-  <div>AI Apps & Automations</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>Project</div>
+  <div>AI Apps and Automation</div>
 </div>
 
 | **First Table: Title** | **Description** | **Repository** | **Web App & Dashboards** | | **Second Table: Name** | **Description** | **Repo** | **App** |
