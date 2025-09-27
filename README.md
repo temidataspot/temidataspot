@@ -30,10 +30,7 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>Project</div>
-  <div>AI Apps and Automation</div>
-</div>
+## Projects                                                                                                 AI Apps & Automation
 
 | **First Table: Title** | **Description** | **Repository** | **Web App & Dashboards** | | **Second Table: Name** | **Description** | **Repo** | **App** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
