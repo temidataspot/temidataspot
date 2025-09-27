@@ -30,9 +30,9 @@
 
 ---
 
-## Projects                                                                                                 AI Apps & Automation
+## Projects                                                                                                 
 
-| **First Table: Title** | **Description** | **Repository** | **Web App & Dashboards** | | **Second Table: Name** | **Description** | **Repo** | **App** |
+| **Projects** | **Description** | **Repo** | **Web App & Dashboards** | | **AI Apps & Automation** | **Description** | **Repo** | **App** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Food-borne Outbreaks | Predicting... | [FBO](https://github.com/temidataspot/food-illness-prediction) | [![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/) | | Project Alpha | Analysis of user engagement metrics | [Alpha Repo](https://github.com/example/project-alpha) | [App Link](#) |
 | Smart Sell | End-to-End... | [SS](https://github.com/temidataspot/project-smartsell) | [![Dashboard](https://img.shields.io/badge/Dashboard-PowerBI-blue)](https://app.powerbi.com/...) | | Beta Feature | Implementation... | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
