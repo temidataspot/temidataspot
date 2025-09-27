@@ -32,34 +32,13 @@
 
 ## Projects
 
-<div style="display: flex; gap: 2%;">
-
-<div style="flex: 49%;">
-
-### First Table (Shortened Example)
-
-| Title        | Description | Repository | Web App & Dashboards |
-|--------------|-------------|------------|----------------------|
-| Project A    | Short Desc  | [Repo](https://github.com/example/repo-a) | [App](#) |
-| Project B    | Short Desc  | [Repo](https://github.com/example/repo-b) | [App](#) |
-
-</div>
-
-<div style="flex: 49%;">
-
-### Second Table (Dummy Data)
-
-| Name                | Description                                      | Repo                                                                 | App                    |
-|---------------------|--------------------------------------------------|----------------------------------------------------------------------|------------------------|
-| Project Alpha       | Analysis             | [Alpha Repo](https://github.com/example/project-alpha)              | [App Link](#)          |
-| Beta Feature        | Implement    | [Beta Repo](https://github.com/example/project-beta)                | [App Link](#)          |
-| Gamma System        | Real-time              | [Gamma Repo](https://github.com/example/project-gamma)              | [App Link](#)          |
-| Delta Insights      | Dashboard         | [Delta Repo](https://github.com/example/project-delta)              | [App Link](#)          |
-| Epsilon Forecast    | Time serie      | [Epsilon Repo](https://github.com/example/project-epsilon)          | [App Link](#)          |
-
-</div>
-
-</div>
+| **First Table: Title** | **Description** | **Repository** | **Web App & Dashboards** | **Separator** | **Second Table: Name** | **Description** | **Repo** | **App** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Project A | Short Desc | [Repo](https://github.com/example/repo-a) | [App](#) | <td style="background-color: #f0f0f0;"></td> | Project Alpha | Analysis | [Alpha Repo](https://github.com/example/project-alpha) | [App Link](#) |
+| Project B | Short Desc | [Repo](https://github.com/example/repo-b) | [App](#) | <td style="background-color: #f0f0f0;"></td> | Beta Feature | Implement | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
+| | | | | <td style="background-color: #f0f0f0;"></td> | Gamma System | Real-time | [Gamma Repo](https://github.com/example/project-gamma) | [App Link](#) |
+| | | | | <td style="background-color: #f0f0f0;"></td> | Delta Insights | Dashboard | [Delta Repo](https://github.com/example/project-delta) | [App Link](#) |
+| | | | | <td style="background-color: #f0f0f0;"></td> | Epsilon Forecast | Time serie | [Epsilon Repo](https://github.com/example/project-epsilon) | [App Link](#) |
 ---
 
 *Looking for something specific? Search my repos by keyword, or drop a message!*
