@@ -32,13 +32,11 @@
 
 ## Projects
 
-| **First Table: Title** | **Description** | **Repository** | **Web App & Dashboards** | **Separator** | **Second Table: Name** | **Description** | **Repo** | **App** |
+| **First Table: Title** | **Description** | **Repository** | **Web App & Dashboards** | | **Second Table: Name** | **Description** | **Repo** | **App** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Project A | Short Desc | [Repo](https://github.com/example/repo-a) | [App](#) | <img src="https://www.google-analytics.com/collect?v=1&t=event&tid=UA-12345678-1&cid=1&ec=example&ea=link&el=example&cs=example&cm=example&cn=example&cm1=1" alt="Black Separator" width="5" height="auto"> | Project Alpha | Analysis | [Alpha Repo](https://github.com/example/project-alpha) | [App Link](#) |
-| Project B | Short Desc | [Repo](https://github.com/example/repo-b) | [App](#) | <img src="https://www.google-analytics.com/collect?v=1&t=event&tid=UA-12345678-1&cid=1&ec=example&ea=link&el=example&cs=example&cm=example&cn=example&cm1=1" alt="Black Separator" width="5" height="auto"> | Beta Feature | Implement | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
-| | | | | <img src="https://www.google-analytics.com/collect?v=1&t=event&tid=UA-12345678-1&cid=1&ec=example&ea=link&el=example&cs=example&cm=example&cn=example&cm1=1" alt="Black Separator" width="5" height="auto"> | Gamma System | Real-time | [Gamma Repo](https://github.com/example/project-gamma) | [App Link](#) |
-| | | | | <img src="https://www.google-analytics.com/collect?v=1&t=event&tid=UA-12345678-1&cid=1&ec=example&ea=link&el=example&cs=example&cm=example&cn=example&cm1=1" alt="Black Separator" width="5" height="auto"> | Delta Insights | Dashboard | [Delta Repo](https://github.com/example/project-delta) | [App Link](#) |
-| | | | | <img src="https://www.google-analytics.com/collect?v=1&t=event&tid=UA-12345678-1&cid=1&ec=example&ea=link&el=example&cs=example&cm=example&cn=example&cm1=1" alt="Black Separator" width="5" height="auto"> | Epsilon Forecast | Time serie | [Epsilon Repo](https://github.com/example/project-epsilon) | [App Link](#) |
+| Food-borne Outbreaks | Predicting... | [FBO](https://github.com/temidataspot/food-illness-prediction) | [![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/) | | Project Alpha | Analysis of user engagement metrics | [Alpha Repo](https://github.com/example/project-alpha) | [App Link](#) |
+| Smart Sell | End-to-End... | [SS](https://github.com/temidataspot/project-smartsell) | [![Dashboard](https://img.shields.io/badge/Dashboard-PowerBI-blue)](https://app.powerbi.com/...) | | Beta Feature | Implementation... | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
+| (Continue your first table rows...) | ... | ... | ... | | (Continue your second table rows...) | ... | ... | ... |
 ---
 
 *Looking for something specific? Search my repos by keyword, or drop a message!*
