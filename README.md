@@ -32,9 +32,9 @@
 
 ## Portfolio Projects                                                                                                 
 
-|**Projects**|**Description**|**Repo**|**Dashboards**| |**AI**|**Description**|**Repo**|**App**|
+|**Projects**|**Description**|**Repo**|**Dashboards**| |**AI**|**Description**|**Repo**|   **App**     |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|Food-borne Outbreaks |ARIMA & ETS for Prediction |[FBO](https://github.com/temidataspot/food-illness-prediction)|[![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/)| |JScribe|Expander, Summariser & OCR|[JScribe](https://github.com/temidataspot/JokoScribe-AI) |[![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/)|
+|Food-borne Outbreaks |ARIMA & ETS for Prediction |[FBO](https://github.com/temidataspot/food-illness-prediction)|[![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/)| |JScribe|Expander, Summariser & OCR|[JScribe](https://github.com/temidataspot/JokoScribe-AI) |     [![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/)      |
 | Smart Sell | End-to-End pipeline sales forecast | [SS](https://github.com/temidataspot/project-smartsell) | [![Dashboard](https://img.shields.io/badge/Dashboard-PowerBI-blue)](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9) | | Beta Feature | Implementation... | [Beta Repo](https://github.com/example/project-beta) | [App Link](#) |
 | Patient Readmission | Predicting admission risks | [PAR](https://github.com/temidataspot/patient-readmission-risk) | [![WebApp](https://img.shields.io/badge/Web%20App-Streamlit-blue)](https://patient-readmission-risks.streamlit.app/) | | (Continue your second table rows...) | ... | ... | ... |
 ---
