@@ -52,18 +52,29 @@
 ## Browse by Categories
 
 <a href="https://example.com/health">
-  <img src="https://img.shields.io/badge/Health-Health-8da0cb.svg?style=for-the-badge" alt="Health" />
+  <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#8da0cb" rx="8"/>
+    <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">Health</text>
+  </svg>
 </a>
 <a href="https://example.com/media">
-  <img src="https://img.shields.io/badge/Media-Media-fdb8b8.svg?style=for-the-badge" alt="Media" />
+  <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#fdb8b8" rx="8"/>
+    <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">Media</text>
+  </svg>
 </a>
 <a href="https://example.com/fmcg">
-  <img src="https://img.shields.io/badge/FMCG-FMCG-b6d8b7.svg?style=for-the-badge" alt="FMCG" />
+  <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#b6d8b7" rx="8"/>
+    <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">FMCG</text>
+  </svg>
 </a>
 <a href="https://example.com/esg">
-  <img src="https://img.shields.io/badge/ESG-ESG-cfcfcf.svg?style=for-the-badge" alt="ESG" />
+  <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#cfcfcf" rx="8"/>
+    <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">ESG</text>
+  </svg>
 </a>
-
 
 
 
