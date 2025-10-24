@@ -52,19 +52,19 @@
 ## Browse by Categories
 
 <a href="https://example.com/health">
-  <img src="https://img.shields.io/badge/Health-Health-8da0cb.svg?style=for-the-badge" alt="HEALTH" />
-</a>
+  <img src="https://img.shields.io/badge/HEALTH-HEALTH-8da0cb.svg?style=for-the-badge&logoColor=white" alt="Health" />
+</a>&nbsp;&nbsp;
 <a href="https://example.com/media">
-  <img src="https://img.shields.io/badge/Media-Media-fdb8b8.svg?style=for-the-badge" alt="FMCG" />
-</a>
+  <img src="https://img.shields.io/badge/MEDIA-MEDIA-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="FMCG" />
+</a>&nbsp;&nbsp;
 <a href="https://example.com/fmcg">
-  <img src="https://img.shields.io/badge/FMCG-FMCG-b6d8b7.svg?style=for-the-badge" alt="MEDIA" />
-</a>
+  <img src="https://img.shields.io/badge/FMCG-FMCG-b6d8b7.svg?style=for-the-badge&logoColor=white" alt="Media" />
+</a>&nbsp;&nbsp;
 <a href="https://example.com/esg">
-  <img src="https://img.shields.io/badge/ESG-ESG-cfcfcf.svg?style=for-the-badge" alt="ESG" />
-</a>
-<a href="https://example.com/esg">
-  <img src="https://img.shields.io/badge/ESG-ESG-cfcfcf.svg?style=for-the-badge" alt="FINANCE" />
+  <img src="https://img.shields.io/badge/ESG-ESG-cfcfcf.svg?style=for-the-badge&logoColor=white" alt="ESG" />
+</a>&nbsp;&nbsp;
+<a href="https://example.com/fmcg">
+  <img src="https://img.shields.io/badge/FMCG-FMCG-b6d8b7.svg?style=for-the-badge&logoColor=white" alt="Others" />
 </a>
 
 
