@@ -52,16 +52,13 @@
 ## Browse by Categories
 
 <a href="https://github.com/temidataspot/port-repo/blob/main/health.md">
-  <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=black" alt="Health" />
+  <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=black" alt="HEALTH" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/temidataspot/port-repo/blob/main/fmcg.md">
-  <img src="https://img.shields.io/badge/MEDIA-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="FMCG" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/temidataspot/port-repo/blob/main/media.md">
-  <img src="https://img.shields.io/badge/FMCG-b6d8b7.svg?style=for-the-badge&logoColor=white" alt="Media" />
+<a href="https://github.com/temidataspot/port-repo/blob/main/fmcg_media.md">
+  <img src="https://img.shields.io/badge/FMCG-MEDIA-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="FMCGMEDIA" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/esg.md">
-  <img src="https://img.shields.io/badge/ESG-cfcfcf.svg?style=for-the-badge&logoColor=white" alt="ESG" />
+  <img src="https://img.shields.io/badge/ESG-TRANSPORT-cfcfcf.svg?style=for-the-badge&logoColor=white" alt="ESGTRANSPORT" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/ai.md">
   <img src="https://img.shields.io/badge/AI-fffd78.svg?style=for-the-badge&logoColor=white" alt="AI" />
