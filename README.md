@@ -52,7 +52,7 @@
 ## Browse by Categories
 
 <a href="https://github.com/temidataspot/port-repo/blob/main/health.md">
-  <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=white" alt="Health" />
+  <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=black" alt="Health" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/fmcg.md">
   <img src="https://img.shields.io/badge/MEDIA-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="FMCG" />
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/ESG-cfcfcf.svg?style=for-the-badge&logoColor=white" alt="ESG" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/ai.md">
-  <img src="https://img.shields.io/badge/AI-b6d8b7.svg?style=for-the-badge&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/AI-fffd78.svg?style=for-the-badge&logoColor=white" alt="AI" />
 </a>
 
 
