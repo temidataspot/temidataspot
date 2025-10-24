@@ -51,10 +51,18 @@
 
 ## Browse by Categories
 
-<a href="https://example.com/health" style="display: inline-block; margin: 0 5px 5px 0; padding: 8px 16px; border: 2px solid #333; border-radius: 8px; background-color: #d4e1f5; text-decoration: none; color: #000; font-weight: bold;">Health</a>
-<a href="https://example.com/media" style="display: inline-block; margin: 0 5px 5px 0; padding: 8px 16px; border: 2px solid #333; border-radius: 8px; background-color: #fce8d5; text-decoration: none; color: #000; font-weight: bold;">Media</a>
-<a href="https://example.com/fmcg" style="display: inline-block; margin: 0 5px 5px 0; padding: 8px 16px; border: 2px solid #333; border-radius: 8px; background-color: #e0f5e0; text-decoration: none; color: #000; font-weight: bold;">FMCG</a>
-<a href="https://example.com/esg" style="display: inline-block; margin: 0 5px 5px 0; padding: 8px 16px; border: 2px solid #333; border-radius: 8px; background-color: #d9d9d9; text-decoration: none; color: #000; font-weight: bold;">ESG</a>
+<a href="https://example.com/health">
+  <img src="https://img.shields.io/badge/Health-Health-8da0cb.svg?style=for-the-badge" alt="Health" />
+</a>
+<a href="https://example.com/media">
+  <img src="https://img.shields.io/badge/Media-Media-fdb8b8.svg?style=for-the-badge" alt="Media" />
+</a>
+<a href="https://example.com/fmcg">
+  <img src="https://img.shields.io/badge/FMCG-FMCG-b6d8b7.svg?style=for-the-badge" alt="FMCG" />
+</a>
+<a href="https://example.com/esg">
+  <img src="https://img.shields.io/badge/ESG-ESG-cfcfcf.svg?style=for-the-badge" alt="ESG" />
+</a>
 
 
 
