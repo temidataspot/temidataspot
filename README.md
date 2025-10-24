@@ -32,7 +32,7 @@
 ---
 
 
-## Browse by Categories
+## Browse Projects by Categories
 
 <a href="https://github.com/temidataspot/port-repo/blob/main/health.md">
   <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=black" alt="HEALTH" />
