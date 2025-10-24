@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/ESG-cfcfcf.svg?style=for-the-badge&logoColor=white" alt="ESG" />
 </a>&nbsp;&nbsp;
 <a href="https://example.com/fmcg">
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE_APPS-b6d8b7.svg?style=for-the-badge&logoColor=white" alt="ARTIFICIAL_INTELLIGENCE_APPS" />
+  <img src="https://img.shields.io/badge/AI-b6d8b7.svg?style=for-the-badge&logoColor=white" alt="AI APPS" />
 </a>
 
 
