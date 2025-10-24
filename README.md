@@ -51,40 +51,10 @@
 
 ## Browse by Categories
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
-
-<a href="https://example.com/health" style="text-decoration: none;">
-  <div style="background-color: #d6e0f0; padding: 20px 30px; border-radius: 12px; border: 1px solid #2a3a5c; text-align: center; font-weight: bold; color: black; transition: transform 0.2s, box-shadow 0.2s;">
-    Health
-  </div>
-</a>
-
-<a href="https://example.com/media" style="text-decoration: none;">
-  <div style="background-color: #fbe6d0; padding: 20px 30px; border-radius: 12px; border: 1px solid #d99c6e; text-align: center; font-weight: bold; color: black; transition: transform 0.2s, box-shadow 0.2s;">
-    Media
-  </div>
-</a>
-
-<a href="https://example.com/fmcg" style="text-decoration: none;">
-  <div style="background-color: #dff3d6; padding: 20px 30px; border-radius: 12px; border: 1px solid #90b37a; text-align: center; font-weight: bold; color: black; transition: transform 0.2s, box-shadow 0.2s;">
-    FMCG
-  </div>
-</a>
-
-<a href="https://example.com/esg" style="text-decoration: none;">
-  <div style="background-color: #d6d6d6; padding: 20px 30px; border-radius: 12px; border: 1px solid #888888; text-align: center; font-weight: bold; color: black; transition: transform 0.2s, box-shadow 0.2s;">
-    ESG
-  </div>
-</a>
-
-</div>
-
-<style>
-div a div:hover {
-  transform: translateY(-3px);
-  box-shadow: 0px 4px 8px rgba(0,0,0,0.15);
-}
-</style>
+<a href="https://example.com/health" style="display: inline-block; margin: 0 5px 5px 0; padding: 8px 16px; border: 2px solid #333; border-radius: 8px; background-color: #d4e1f5; text-decoration: none; color: #000; font-weight: bold;">Health</a>
+<a href="https://example.com/media" style="display: inline-block; margin: 0 5px 5px 0; padding: 8px 16px; border: 2px solid #333; border-radius: 8px; background-color: #fce8d5; text-decoration: none; color: #000; font-weight: bold;">Media</a>
+<a href="https://example.com/fmcg" style="display: inline-block; margin: 0 5px 5px 0; padding: 8px 16px; border: 2px solid #333; border-radius: 8px; background-color: #e0f5e0; text-decoration: none; color: #000; font-weight: bold;">FMCG</a>
+<a href="https://example.com/esg" style="display: inline-block; margin: 0 5px 5px 0; padding: 8px 16px; border: 2px solid #333; border-radius: 8px; background-color: #d9d9d9; text-decoration: none; color: #000; font-weight: bold;">ESG</a>
 
 
 
