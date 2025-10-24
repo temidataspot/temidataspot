@@ -51,32 +51,38 @@
 
 ## Browse by Categories
 
-<a href="https://example.com/health">
-  <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#8da0cb" rx="8"/>
-    <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">Health</text>
-  </svg>
-</a>
-<a href="https://example.com/media">
-  <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#fdb8b8" rx="8"/>
-    <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">Media</text>
-  </svg>
-</a>
-<a href="https://example.com/fmcg">
-  <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#b6d8b7" rx="8"/>
-    <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">FMCG</text>
-  </svg>
-</a>
-<a href="https://example.com/esg">
-  <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#cfcfcf" rx="8"/>
-    <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">ESG</text>
-  </svg>
-</a>
-
-
+<span style="display: inline-block; margin-right: 12px;">
+  <a href="https://example.com/health">
+    <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#8da0cb" rx="8"/>
+      <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">Health</text>
+    </svg>
+  </a>
+</span>
+<span style="display: inline-block; margin-right: 12px;">
+  <a href="https://example.com/media">
+    <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#fdb8b8" rx="8"/>
+      <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">Media</text>
+    </svg>
+  </a>
+</span>
+<span style="display: inline-block; margin-right: 12px;">
+  <a href="https://example.com/fmcg">
+    <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#b6d8b7" rx="8"/>
+      <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">FMCG</text>
+    </svg>
+  </a>
+</span>
+<span style="display: inline-block; margin-right: 12px;">
+  <a href="https://example.com/esg">
+    <svg width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#cfcfcf" rx="8"/>
+      <text x="50%" y="50%" fill="#000" font-size="16" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" font-weight="bold">ESG</text>
+    </svg>
+  </a>
+</span>
 
 
 
