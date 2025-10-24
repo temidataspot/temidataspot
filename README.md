@@ -48,35 +48,49 @@
 |Air Quality|Monitoring air quality for environmental health|[AQ](https://github.com/temidataspot/Real-Time_Air_Quality_Monitoring)|                | | --- | --- | --- | --- |
 ---
 
+
 ## Browse by Categories
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
 
 <a href="https://example.com/health" style="text-decoration: none;">
-  <div style="background-color: #d1f7d6; padding: 20px; border-radius: 10px; text-align: center; width: 120px; color: black; font-weight: bold;">
+  <div style="background-color: #d1f7d6; padding: 20px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s;">
+    🩺<br>
     Health
   </div>
 </a>
 
 <a href="https://example.com/finance" style="text-decoration: none;">
-  <div style="background-color: #f7f1d1; padding: 20px; border-radius: 10px; text-align: center; width: 120px; color: black; font-weight: bold;">
+  <div style="background-color: #f7f1d1; padding: 20px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s;">
+    💰<br>
     Finance
   </div>
 </a>
 
 <a href="https://example.com/media" style="text-decoration: none;">
-  <div style="background-color: #d1e7f7; padding: 20px; border-radius: 10px; text-align: center; width: 120px; color: black; font-weight: bold;">
+  <div style="background-color: #d1e7f7; padding: 20px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s;">
+    🎬<br>
     Media
   </div>
 </a>
 
 <a href="https://example.com/agric" style="text-decoration: none;">
-  <div style="background-color: #f7d1d1; padding: 20px; border-radius: 10px; text-align: center; width: 120px; color: black; font-weight: bold;">
+  <div style="background-color: #f7d1d1; padding: 20px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s;">
+    🌾<br>
     Agric
   </div>
 </a>
 
 </div>
+
+<style>
+div a div:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+}
+</style>
+
+
 
 
 
