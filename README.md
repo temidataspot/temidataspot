@@ -54,32 +54,26 @@
 <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
 
 <a href="https://example.com/health" style="text-decoration: none;">
-  <div style="background-color: #d1f7d6; padding: 25px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s;">
-    🩺<br>Health
-  </div>
-</a>
-
-<a href="https://example.com/finance" style="text-decoration: none;">
-  <div style="background-color: #f7f1d1; padding: 25px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s;">
-    💰<br>Finance
+  <div style="background-color: #d6e0f0; padding: 20px 30px; border-radius: 12px; border: 1px solid #2a3a5c; text-align: center; font-weight: bold; color: black; transition: transform 0.2s, box-shadow 0.2s;">
+    Health
   </div>
 </a>
 
 <a href="https://example.com/media" style="text-decoration: none;">
-  <div style="background-color: #d1e7f7; padding: 25px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s;">
-    🎬<br>Media
+  <div style="background-color: #fbe6d0; padding: 20px 30px; border-radius: 12px; border: 1px solid #d99c6e; text-align: center; font-weight: bold; color: black; transition: transform 0.2s, box-shadow 0.2s;">
+    Media
   </div>
 </a>
 
-<a href="https://example.com/agric" style="text-decoration: none;">
-  <div style="background-color: #f7d1d1; padding: 25px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s;">
-    🌾<br>Agric
+<a href="https://example.com/fmcg" style="text-decoration: none;">
+  <div style="background-color: #dff3d6; padding: 20px 30px; border-radius: 12px; border: 1px solid #90b37a; text-align: center; font-weight: bold; color: black; transition: transform 0.2s, box-shadow 0.2s;">
+    FMCG
   </div>
 </a>
 
-<a href="https://example.com/tech" style="text-decoration: none;">
-  <div style="background-color: #d1d7f7; padding: 25px; border-radius: 12px; text-align: center; width: 120px; color: black; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s;">
-    💻<br>Tech
+<a href="https://example.com/esg" style="text-decoration: none;">
+  <div style="background-color: #d6d6d6; padding: 20px 30px; border-radius: 12px; border: 1px solid #888888; text-align: center; font-weight: bold; color: black; transition: transform 0.2s, box-shadow 0.2s;">
+    ESG
   </div>
 </a>
 
@@ -87,10 +81,11 @@
 
 <style>
 div a div:hover {
-  transform: translateY(-5px);
-  box-shadow: 0px 6px 12px rgba(0,0,0,0.15);
+  transform: translateY(-3px);
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.15);
 }
 </style>
+
 
 
 
