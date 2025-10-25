@@ -35,9 +35,9 @@
 ## Browse Projects by Categories
 
 <a href="https://github.com/temidataspot/port-repo/blob/main/health.md">
-  <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=black" alt="HEALTH" />
+  <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=white" alt="HEALTH" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/temidataspot/port-repo/blob/main/fmcg_media.md">
+<a href="https://github.com/temidataspot/port-repo/blob/main/trade_media.md">
   <img src="https://img.shields.io/badge/TRADE-MEDIA-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="TRADEMEDIA" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/esg.md">
@@ -51,7 +51,7 @@
 
 
 
-
+---
 *Looking for something specific? Search my repos by keyword, or drop a message!*
 
 ---
