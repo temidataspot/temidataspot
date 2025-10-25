@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://github.com/temidataspot/temidataspot/blob/main/banner.gif" alt="Welcome Banner" width="100%"/>
 
-<h1 align="center">Temi Priscilla</h1>
+<h1 align="center">Temi Priscilla Jokotola</h1>
 <h3 align="center">Data Scientist</h3>
 
 <p align="center">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=black" alt="HEALTH" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/fmcg_media.md">
-  <img src="https://img.shields.io/badge/FMCG-MEDIA-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="FMCGMEDIA" />
+  <img src="https://img.shields.io/badge/TRADE-MEDIA-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="TRADEMEDIA" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/esg.md">
   <img src="https://img.shields.io/badge/ESG-TRANSPORT-cfcfcf.svg?style=for-the-badge&logoColor=white" alt="ESGTRANSPORT" />
