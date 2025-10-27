@@ -22,8 +22,8 @@
 
 | **Languages, Scripting & Automation** | **AI & Machine Learning** | **Data Visualisation & BI** | **Data Engineering** | **Cloud Platforms** | Spreadsheets |
 |---------------------------|---------------------------|-----------------------------|----------------------|---------------------|------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Supervised Learning | PowerBI, Tableau | dbt | AWS | Excel (Advanced) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Unsupervised Learning | R Shiny | BigQuery | MS Azure | Google Sheets |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Machine Learning | PowerBI, Tableau | dbt | AWS | Excel (Advanced) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Deep Learning | R Shiny | BigQuery | MS Azure | Google Sheets |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | Looker, Streamlit |  | GCP | |
 | VBA & Appscript | RAG  | Alteryx, ggplot2 |  |  | |
 | Quarto |  | Seaborn & Matplotlib |  |  |  |
@@ -55,7 +55,7 @@
 *Looking for something specific? Search my repos by keyword, or drop a message!*
 
 ---
-- 🔭 I’m currently working on African Women in Data Science
+- 🔭 I’m currently working on writing a statistics book
 - 👯 I’m looking to collaborate on Niche-based Automations
 - 🤔 I’m looking for help with AWiDS
 - 💬 Ask me about Statistics and how to make the perfect coffee
