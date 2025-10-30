@@ -72,10 +72,6 @@
 
 ---
 
-<p align="center">
-  <img src="HEALTH" width="47%" />
-</p>
-
 ## Currently Exploring
 - Reinforcement learning & Advanced deep learning models
 - Experimenting with Langchain and Gen AI tools
