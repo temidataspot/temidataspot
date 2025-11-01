@@ -18,7 +18,7 @@
 
 ---
 
-## 💼 Tech Stack
+## Tech Stack
 
 | **Languages, Scripting & Automation** | **AI & Machine Learning** | **Data Visualisation & BI** | **Data Engineering** | **Cloud Platforms** | Spreadsheets |
 |---------------------------|---------------------------|-----------------------------|----------------------|---------------------|------------------------|
@@ -52,15 +52,15 @@
 *Looking for something specific? Search my repos by keyword, or drop a message!*
 
 ---
-- 🔭 I’m currently working on writing a statistics book
-- 👯 I’m looking to collaborate on Niche-based Automations
-- 🤔 I’m looking for help with AWiDS
-- 💬 Ask me about Statistics and how to make the perfect coffee
-- 📫 How to reach me: [Email](mailto:globaltemi98@gmail.com)
-- 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: I spend too much money on books.
+-  I’m currently writing a statistics book
+-  I’m looking to collaborate on Niche-based Automations
+-  I’m looking for help with AWiDS
+-  Ask me about Statistics and how to make the perfect coffee
+-  How to reach me: [Email](mailto:globaltemi98@gmail.com)
+-  Pronouns: SHE/HER
+-  Fun fact: I spend too much money on books.
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=temidataspot&show_icons=true&theme=radical" width="47%" />
