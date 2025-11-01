@@ -50,7 +50,7 @@
 
 ## <h3> Certifications</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2AACF5643ECD0EBEA4815D3808805CDDDD4407F249BAB4EB8B98E880A9C0F3E6">
     <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" alt="Oracle Certified" width="90" style="margin-right: 20px;"/>
   </a>
