@@ -45,6 +45,13 @@
 </a>
 
 
+---
+
+## Certifications
+
+[![Oracle Certified](https://upload.wikimedia.org/wikipedia/commons/4/4a/Oracle_logo.svg)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2AACF5643ECD0EBEA4815D3808805CDDDD4407F249BAB4EB8B98E880A9C0F3E6)
+[![Google Certified](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg)](https://coursera.org/verify/professional-cert/QQJD3NPHM7VG)
+[![Microsoft Certified](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg)](https://www.verify.certiport.com/badges/ePcJ-4wBC)
 
 
 
