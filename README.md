@@ -35,16 +35,13 @@
 ## Browse Projects by Categories
 
 <a href="https://github.com/temidataspot/port-repo/blob/main/health.md">
-  <img src="https://img.shields.io/badge/HEALTH-8da0cb.svg?style=for-the-badge&logoColor=white" alt="HEALTH" />
+  <img src="https://img.shields.io/badge/HEALTHCARE-8da0cb.svg?style=for-the-badge&logoColor=white" alt="HEALTHCARE" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/temidataspot/port-repo/blob/main/trade_media.md">
-  <img src="https://img.shields.io/badge/TRADE-MEDIA-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="TRADEMEDIA" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/temidataspot/port-repo/blob/main/esg_transport.md">
-  <img src="https://img.shields.io/badge/ESG-TRANSPORT-cfcfcf.svg?style=for-the-badge&logoColor=white" alt="ESGTRANSPORT" />
+<a href="https://github.com/temidataspot/port-repo/blob/main/cross_industry.md">
+  <img src="https://img.shields.io/badge/CROSS_INDUSTRY-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="CROSSINDUSTRY" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/ai.md">
-  <img src="https://img.shields.io/badge/AI-fffd78.svg?style=for-the-badge&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE_APPS-fffd78.svg?style=for-the-badge&logoColor=white" alt="AI" />
 </a>
 
 
