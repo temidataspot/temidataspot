@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/CROSS_INDUSTRY-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="CROSSINDUSTRY" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/temidataspot/port-repo/blob/main/ai.md">
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE_APPS-fffd78.svg?style=for-the-badge&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-fffd78.svg?style=for-the-badge&logoColor=white" alt="AI" />
 </a>
 
 
