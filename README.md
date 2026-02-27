@@ -11,8 +11,8 @@
 ---
 
 ## Browse Projects by Categories
-## <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=000000&center=true&vCenter=true&width=800&lines=Browse+Projects+by+Categories;Click+%7C+Cards+%7C+to+%7C+Explore />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron:wght@700&size=28&duration=3000&color=000000&center=true&vCenter=true&width=800&lines=Browse+Projects+by+Categories;Click+%7C+Cards+%7C+to+%7C+Explore" />
 </p>
 
 <div align="center">
