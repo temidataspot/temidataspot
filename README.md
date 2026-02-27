@@ -72,7 +72,7 @@
 -  I’m looking to collaborate on Niche-based Automations
 -  I’m looking for help with AWiDS
 -  Ask me about Statistics and how to make the perfect coffee
--  How to reach me: [Email](mailto:globaltemi98@gmail.com)
+-  How to reach me: [Email](mailto:temi@cognivinelab.com)
 -  Pronouns: SHE/HER
 -  Fun fact: I spend too much money on books.
 
