@@ -14,69 +14,19 @@
 
 <div align="center">
 
-<style>
-.card-container {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  margin-top: 20px;
-  flex-wrap: wrap;
-}
+<a href="https://github.com/yourusername/apply-repo">
+  <img src="https://img.shields.io/badge/APPLY-2F5D8C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-.card {
-  text-decoration: none;
-  padding: 28px 50px;
-  border-radius: 14px;
-  font-size: 22px;
-  font-weight: bold;
-  color: white;
-  transition: all 0.3s ease;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
-  min-width: 140px;
-  text-align: center;
-}
+<a href="https://github.com/yourusername/dent-repo">
+  <img src="https://img.shields.io/badge/DENT-1F7A6E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-.apply {
-  background-color: #2F5D8C; /* Deep Steel Blue */
-}
-
-.apply:hover {
-  background-color: #4A7FB5;
-}
-
-.dent {
-  background-color: #1F7A6E; /* Muted Teal */
-}
-
-.dent:hover {
-  background-color: #2FA897;
-}
-
-.help {
-  background-color: #5C5470; /* Soft Slate Purple */
-}
-
-.help:hover {
-  background-color: #7A6F94;
-}
-</style>
-
-<div class="card-container">
-  <a href="https://github.com/temidataspot/port-repo/blob/main/health.md" class="card Health & Research">
-    APPLY
-  </a>
-
-  <a href="https://github.com/temidataspot/port-repo/blob/main/cross_industry.md" class="card Commercial Operations">
-    DENT
-  </a>
-
-  <a href="https://github.com/temidataspot/port-repo/blob/main/ai.md" class="card AI Solutions">
-    HELP
-  </a>
-</div>
+<a href="https://github.com/yourusername/help-repo">
+  <img src="https://img.shields.io/badge/HELP-5C5470?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-
 ---
 
 ## Tech Stack
