@@ -1,20 +1,81 @@
 <!-- Banner -->
 <img src="https://github.com/temidataspot/temidataspot/blob/main/banner.gif" alt="Welcome Banner" width="100%"/>
 
-<h1 align="center">Temi Priscilla Jokotola</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center"> DR Temiloluwa Priscilla Jokotola</h1>
+<h3 align="center">Data Scientist | ML Engineer</h3>
 
 <p align="center">
-  Turning complex data into actionable insights | Building AI solutions that solve real-world problems
+  Making data **smart** & **Psychic** | Building AI solutions | Ensuring **sound** business decisions
 </p>
 
 ---
 
-## About Me
-- I analyse complex datasets, uncover actionable insights, and develop AI/ML models that drive real-world impact.  
-- I design intelligent applications for forecasting, automation, and ethical decision-making.  
-- I am passionate about storytelling through data — creating visual, meaningful, and human-centred insights.  
-- I leverage data to create positive change across health, business, education, and community initiatives.
+## Browse Projects by Categories
+
+<div align="center">
+
+<style>
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  text-decoration: none;
+  padding: 28px 50px;
+  border-radius: 14px;
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  min-width: 140px;
+  text-align: center;
+}
+
+.apply {
+  background-color: #2F5D8C; /* Deep Steel Blue */
+}
+
+.apply:hover {
+  background-color: #4A7FB5;
+}
+
+.dent {
+  background-color: #1F7A6E; /* Muted Teal */
+}
+
+.dent:hover {
+  background-color: #2FA897;
+}
+
+.help {
+  background-color: #5C5470; /* Soft Slate Purple */
+}
+
+.help:hover {
+  background-color: #7A6F94;
+}
+</style>
+
+<div class="card-container">
+  <a href="https://github.com/temidataspot/port-repo/blob/main/health.md" class="card Health & Research">
+    APPLY
+  </a>
+
+  <a href="https://github.com/temidataspot/port-repo/blob/main/cross_industry.md" class="card Commercial Operations">
+    DENT
+  </a>
+
+  <a href="https://github.com/temidataspot/port-repo/blob/main/ai.md" class="card AI Solutions">
+    HELP
+  </a>
+</div>
+
+</div>
 
 ---
 
