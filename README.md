@@ -15,15 +15,15 @@
 <div align="center">
 
 <a href="https://github.com/yourusername/apply-repo">
-  <img src="https://img.shields.io/badge/APPLY-2F5D8C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HEALTHCARE-&-RESEARCH-2F5D8C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/yourusername/dent-repo">
-  <img src="https://img.shields.io/badge/DENT-1F7A6E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/COMMERCIAL-OPERATIONS-1F7A6E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/yourusername/help-repo">
-  <img src="https://img.shields.io/badge/HELP-5C5470?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-SOLUTIONS-5C5470?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
