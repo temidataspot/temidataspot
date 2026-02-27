@@ -28,36 +28,23 @@
 </a>
 
 </div>
----
 
+
+---
 ## Tech Stack
 
-| **Languages, Scripting & Automation** | **AI & Machine Learning** | **Data Visualisation & BI** | **Data Engineering** | **Cloud Platforms** | Spreadsheets |
+| **Data Analysis & Visualisation** | **AI & Machine Learning** | **Databases & Data Engineering** | **Mathematics & Statistics** | **Tools & Platforms** | Cloud & Deployment |
 |---------------------------|---------------------------|-----------------------------|----------------------|---------------------|------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Machine Learning | PowerBI, Tableau | dbt | AWS | Excel (Advanced) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | Deep Learning | R Shiny | BigQuery | MS Azure | Google Sheets |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Natural Language Processing (NLP) | Looker, Streamlit |  | GCP | |
-| VBA & Appscript | RAG  | Alteryx, ggplot2 |  |  | |
-| ETL Pipeline | Generative AI | Seaborn & Matplotlib |  |  |  |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Scikit-learn | SQL Databases | Hypothesis Testing | Git & Github | GCP |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | TensorFlow | Firebase | Probability Modeling | Jupyter | MS Azure |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | Keras | ETL Pipelines | Statistical Analysis | VS Code | Streamlit |
+| Excel/Google Sheets [VBA/AppScript] | PyTorch  | Data Cleaning & Wrangling | A/B Testing  | Docker | Flask/FastAPI |
+| Alteryx, Power BI, Tableau | GBMs | dbt | Regression & Forecasting  | APIs | Model Deployment & Monitoring |
+| Matplotlib, Seaborn | NLP | MS Fabric | - | CLI | - |
+| Plotly, ggplot2, D3.js | - | - |-  | - | - |
 
 ---
----
 
-
-## Browse Projects by Categories
-
-<a href="https://github.com/temidataspot/port-repo/blob/main/health.md">
-  <img src="https://img.shields.io/badge/HEALTHCARE-8da0cb.svg?style=for-the-badge&logoColor=white" alt="HEALTHCARE" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/temidataspot/port-repo/blob/main/cross_industry.md">
-  <img src="https://img.shields.io/badge/CROSS_INDUSTRY-fdb8b8.svg?style=for-the-badge&logoColor=white" alt="CROSSINDUSTRY" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/temidataspot/port-repo/blob/main/ai.md">
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-fffd78.svg?style=for-the-badge&logoColor=white" alt="AI" />
-</a>
-
-
----
 ---
 
 ## <h3> Certifications</h3>
