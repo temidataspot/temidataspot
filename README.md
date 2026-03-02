@@ -37,7 +37,7 @@
 ---
 ## Tech Stack
 
-| **Data Analysis & Visualisation** | **AI & Machine Learning** | **Databases & Data Engineering** | **Mathematics & Statistics** | **Tools & Platforms** | Cloud & Deployment |
+| **Data Analysis & Visualisation** | **AI & Machine Learning** | **Databases & Data Engineering** | **Mathematics & Statistics** | **Tools & Deployment I** | Cloud & Deployment II |
 |---------------------------|---------------------------|-----------------------------|----------------------|---------------------|------------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Scikit-learn | SQL Databases | Hypothesis Testing | Git & Github | GCP |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R | TensorFlow | Firebase | Probability Modeling | Jupyter | MS Azure |
