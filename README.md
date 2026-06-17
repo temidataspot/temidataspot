@@ -18,12 +18,6 @@
 </p>
 
 
-
-<!-- ===================== ANIMATED PROMPT ======================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=760&lines=%F0%9F%91%87+Click+the+cards+below+to+explore+categories+%F0%9F%91%87" alt="Click cards below to explore categories" />
-</p>
-
 **CLICK THE CARDS BELOW TO EXPLORE CATEGORIES**
 
 ---
@@ -54,79 +48,25 @@
 <!-- ===================== ABOUT ================================= -->
 ## About
 
-I am a data and AI specialist who builds the bridge between rigorous analysis and real-world impact. My work spans three domains: turning health and research data into trustworthy evidence, helping commercial teams make sharper operational decisions, and shipping applied AI products that solve practical problems. I care about reproducibility, clean engineering, and analysis that stakeholders can actually act on.
+I am a data and AI specialist who builds the bridge between rigorous analysis and real-world impact. My work spans: turning data into trustworthy evidence, helping institutions make sharper operational decisions, and shipping applied AI products that solve practical problems. I care about reproducibility, clean engineering, and analysis that stakeholders can actually act on.
 
 - :microscope: I work across the full lifecycle, from problem framing and data engineering to modelling, deployment and storytelling.
 - :bar_chart: I am happiest where statistics, machine learning and clear communication meet.
-- :handshake: Open to collaboration on health research, analytics consulting and AI product work.
+- :handshake: Open to collaboration on research, analytics consulting and AI product work.
 
 ---
 
 <!-- ===================== TECH STACK =========================== -->
 ## Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-### Data Visualisation and BI
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel%20%2B%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### AI and Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### Big Data and Engineering
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### Databases and Warehousing
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-</p>
-
-### Cloud and MLOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| Category | Tools and Technologies |
+| :-- | :-- |
+| **Languages** | Python, R, SQL, VBA, Bash, DAX |
+| **Data Visualisation and BI** | Power BI, Tableau, Looker, Excel + VBA, Matplotlib, Seaborn, Plotly |
+| **AI and Machine Learning** | scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, Hugging Face, LangChain, OpenAI |
+| **Big Data and Engineering** | Apache Spark, Hadoop, Kafka, Airflow, dbt, Databricks |
+| **Databases and Warehousing** | PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery |
+| **Cloud and M
 
 ---
 
@@ -145,23 +85,29 @@ I am a data and AI specialist who builds the bridge between rigorous analysis an
 <!-- ===================== CERTIFICATIONS ======================= -->
 ## Certifications
 
-> Replace, reorder or remove any of these so they match your real credentials.
+<p align="left">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2AACF5643ECD0EBEA4815D3808805CDDDD4407F249BAB4EB8B98E880A9C0F3E6">
+    <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" alt="Oracle Certified" width="90" style="margin-right: 20px;"/>
+  </a>
+      
+  <a href="https://coursera.org/verify/professional-cert/QQJD3NPHM7VG">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Certified" width="90" style="margin-right: 20px;"/>
+  </a>
+      
+  <a href="https://www.verify.certiport.com/badges/ePcJ-4wBC">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Certified" width="90"/>
+  </a>
+</p>
 
-- :cloud: **AWS Certified Machine Learning, Specialty**
-- :triangular_ruler: **Microsoft Certified: Azure Data Scientist Associate**
-- :bar_chart: **Microsoft Certified: Power BI Data Analyst Associate**
-- :brain: **TensorFlow Developer Certificate**
-- :chart_with_upwards_trend: **Databricks Certified Data Engineer Associate**
-- :snowflake: **SnowPro Core Certification**
 
 ---
 
 <!-- ===================== EDUCATION ============================= -->
 ## Education
 
-- :mortar_board: **PhD**, {{FIELD}}, {{UNIVERSITY}}, {{YEAR}}
-- :books: **MSc**, {{FIELD}}, {{UNIVERSITY}}, {{YEAR}}
-- :school: **BSc**, {{FIELD}}, {{UNIVERSITY}}, {{YEAR}}
+- :mortar_board: **Cert**, {{Data Science & Generative Artificial Intelligence}}, {{Oracle University}}
+- :books: **MSc**, {{Data Science}}, {{University of East London}}
+- :school: **BSc**, {{Vet Medicine}}, {{University of Ilorin}}
 
 ---
 
@@ -170,11 +116,11 @@ I am a data and AI specialist who builds the bridge between rigorous analysis an
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{temidataspot}}&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{GITHUB_USERNAME}}&theme=tokyonight&hide_border=true" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{temidataspot}}&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </p>
 
 ---
@@ -183,12 +129,10 @@ I am a data and AI specialist who builds the bridge between rigorous analysis an
 ## Connect With Me
 
 <p align="center">
-  <a href="{{LINKEDIN_URL}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="{{https://www.linkedin.com/in/temiloluwa-priscilla-jokotola}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:{{temi@cognivine.com}}"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="{{TWITTER_URL}}"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="{{WEBSITE_URL}}"><img src="https://img.shields.io/badge/Portfolio-22A45D?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-  <a href="{{GOOGLE_SCHOLAR_URL}}"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-  <a href="{{KAGGLE_URL}}"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="{{https://temiloluwapjokotola.web.app/}}"><img src="https://img.shields.io/badge/Portfolio-22A45D?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
 </p>
 
 <!-- ===================== FOOTER ================================ -->
