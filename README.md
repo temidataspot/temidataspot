@@ -31,6 +31,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=760&lines=%F0%9F%91%87+Click+the+cards+below+to+explore+categories+%F0%9F%91%87" alt="Click cards below to explore categories" />
 </p>
 
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron:wght@700&size=28&duration=3000&color=32CD32¢er=true&vCenter=true&width=800&lines=Browse+Projects+by+Categories;Click+Cards+to+Explore" />
+</p>
+
+<div align="center">
+
+<a href="https://github.com/temidataspot/port-repo/blob/main/health.md">
+  <img src="https://img.shields.io/badge/HEALTHCARE-RESEARCH-2F5D8C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+
+<a href="https://github.com/temidataspot/port-repo/blob/main/cross_industry.md">
+  <img src="https://img.shields.io/badge/COMMERCIAL-OPERATIONS-1F7A6E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+
+<a href="https://github.com/temidataspot/port-repo/blob/main/ai.md">
+  <img src="https://img.shields.io/badge/AI-SOLUTIONS-5C5470?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 <!-- ===================== THE THREE BIG CARDS =================== -->
 <table align="center" width="100%">
   <tr>
