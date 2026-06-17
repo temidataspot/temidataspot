@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=22A45D&center=true&vCenter=true&width=720&lines=Turning+complex+data+into+decisions;Health+research%2C+commercial+strategy%2C+and+applied+AI;PhD-led%2C+industry-focused%2C+outcome-driven" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=22A45D&center=true&vCenter=true&width=720&lines=Turning+complex+data+into+decisions" alt="Typing tagline" />
 </p>
 
 <!-- ===================== TOP BADGES ============================ -->
