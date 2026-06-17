@@ -56,35 +56,6 @@
 
 </div>
 
-<!-- ===================== THE THREE BIG CARDS =================== -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <a href="{{HEALTH_RESEARCH_REPO_URL}}">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E7D32,100:43A047&height=150&section=header&text=Health%20%26%20Research&fontSize=26&fontColor=ffffff&fontAlignY=52" alt="Health and Research" />
-      </a>
-      <br/>
-      <sub><b>Clinical, epidemiological and research analytics.</b><br/>Study design, statistical modelling, evidence synthesis and reproducible reporting.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="{{COMMERCIAL_OPS_REPO_URL}}">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1565C0,100:1E88E5&height=150&section=header&text=Commercial%20Operations&fontSize=24&fontColor=ffffff&fontAlignY=52" alt="Commercial Operations" />
-      </a>
-      <br/>
-      <sub><b>Business intelligence and operational analytics.</b><br/>Forecasting, KPI dashboards, revenue optimisation and decision support.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="{{AI_APPS_REPO_URL}}">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A1B9A,100:8E44AD&height=150&section=header&text=AI%20Apps&fontSize=26&fontColor=ffffff&fontAlignY=52" alt="AI Apps" />
-      </a>
-      <br/>
-      <sub><b>Production-grade applied AI.</b><br/>LLM applications, ML pipelines, computer vision and intelligent automation.</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ---
 
 <!-- ===================== ABOUT ================================= -->
