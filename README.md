@@ -24,6 +24,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=760&lines=%F0%9F%91%87+Click+the+cards+below+to+explore+categories+%F0%9F%91%87" alt="Click cards below to explore categories" />
 </p>
 
+**CLICK THE CARDS BELOW TO EXPLORE CATEGORIES**
+
 ---
 
 
