@@ -8,8 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Dr%20Temi%20Priscilla%20Jokotola&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Dr Temi Priscilla Jokotola" />
 </p>
 
-<!-- ===================== NAME + TAGLINE ======================== -->
-<h1 align="center">Dr Temi Priscilla Jokotola</h1>
 
 <p align="center">
   <b>Big Data Analytics</b> &nbsp;|&nbsp; <b>Data Science</b> &nbsp;|&nbsp; <b>Artificial Intelligence</b>
