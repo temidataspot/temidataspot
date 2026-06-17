@@ -17,14 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=22A45D&center=true&vCenter=true&width=720&lines=Turning+complex+data+into+decisions" alt="Typing tagline" />
 </p>
 
-<!-- ===================== TOP BADGES ============================ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/PhD-Data%20Science-12100E?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Big%20Data%20%26%20AI-1565C0?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username={{GITHUB_USERNAME}}&style=for-the-badge&color=22A45D&label=Profile+Views" />
-</p>
 
-<br/>
 
 <!-- ===================== ANIMATED PROMPT ======================= -->
 <p align="center">
@@ -32,9 +25,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron:wght@700&size=28&duration=3000&color=32CD32¢er=true&vCenter=true&width=800&lines=Browse+Projects+by+Categories;Click+Cards+to+Explore" />
-</p>
+
 
 <div align="center">
 
