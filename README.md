@@ -105,9 +105,9 @@ I am a data and AI specialist who builds the bridge between rigorous analysis an
 <!-- ===================== EDUCATION ============================= -->
 ## Education
 
-- :mortar_board: **Cert**, {{Data Science & Generative Artificial Intelligence}}, {{Oracle University}}
-- :books: **MSc**, {{Data Science}}, {{University of East London}}
-- :school: **BSc**, {{Vet Medicine}}, {{University of Ilorin}}
+- :mortar_board: **Cert**, Data Science & Generative Artificial Intelligence, Oracle University
+- :books: **MSc**, Data Science, University of East London
+- :school: **BSc**, Vet Medicine, University of Ilorin
 
 ---
 
@@ -115,7 +115,7 @@ I am a data and AI specialist who builds the bridge between rigorous analysis an
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username={{temidataspot}}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{temidataspot}}&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
